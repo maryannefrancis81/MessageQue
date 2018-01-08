@@ -1,0 +1,11 @@
+C:\LearnocitySQS\AwsConsoleApp1\AwsConsoleApp1\bin\Debug\AwsConsoleApp1.exe.config
+C:\LearnocitySQS\AwsConsoleApp1\AwsConsoleApp1\bin\Debug\AwsConsoleApp1.exe
+C:\LearnocitySQS\AwsConsoleApp1\AwsConsoleApp1\bin\Debug\AwsConsoleApp1.pdb
+C:\LearnocitySQS\AwsConsoleApp1\AwsConsoleApp1\bin\Debug\AWSSDK.Core.dll
+C:\LearnocitySQS\AwsConsoleApp1\AwsConsoleApp1\bin\Debug\AWSSDK.Core.xml
+C:\LearnocitySQS\AwsConsoleApp1\AwsConsoleApp1\obj\Debug\AwsConsoleApp1.csprojResolveAssemblyReference.cache
+C:\LearnocitySQS\AwsConsoleApp1\AwsConsoleApp1\obj\Debug\AwsConsoleApp1.exe
+C:\LearnocitySQS\AwsConsoleApp1\AwsConsoleApp1\obj\Debug\AwsConsoleApp1.pdb
+C:\LearnocitySQS\AwsConsoleApp1\AwsConsoleApp1\bin\Debug\AWSSDK.SQS.dll
+C:\LearnocitySQS\AwsConsoleApp1\AwsConsoleApp1\bin\Debug\AWSSDK.SQS.pdb
+C:\LearnocitySQS\AwsConsoleApp1\AwsConsoleApp1\bin\Debug\AWSSDK.SQS.xml

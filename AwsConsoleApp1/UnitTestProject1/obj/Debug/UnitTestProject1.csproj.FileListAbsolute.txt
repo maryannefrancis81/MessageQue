@@ -1,0 +1,14 @@
+C:\LearnocitySQS\AwsConsoleApp1\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\LearnocitySQS\AwsConsoleApp1\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\LearnocitySQS\AwsConsoleApp1\UnitTestProject1\bin\Debug\AwsConsoleApp1.exe
+C:\LearnocitySQS\AwsConsoleApp1\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\LearnocitySQS\AwsConsoleApp1\UnitTestProject1\bin\Debug\AWSSDK.SQS.dll
+C:\LearnocitySQS\AwsConsoleApp1\UnitTestProject1\bin\Debug\AWSSDK.Core.dll
+C:\LearnocitySQS\AwsConsoleApp1\UnitTestProject1\bin\Debug\AwsConsoleApp1.pdb
+C:\LearnocitySQS\AwsConsoleApp1\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\LearnocitySQS\AwsConsoleApp1\UnitTestProject1\bin\Debug\AWSSDK.SQS.pdb
+C:\LearnocitySQS\AwsConsoleApp1\UnitTestProject1\bin\Debug\AWSSDK.SQS.xml
+C:\LearnocitySQS\AwsConsoleApp1\UnitTestProject1\bin\Debug\AWSSDK.Core.xml
+C:\LearnocitySQS\AwsConsoleApp1\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+C:\LearnocitySQS\AwsConsoleApp1\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\LearnocitySQS\AwsConsoleApp1\UnitTestProject1\obj\Debug\UnitTestProject1.pdb

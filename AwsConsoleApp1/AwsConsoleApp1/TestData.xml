@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<testdata>
+<queue>
+  <name>CoreQueue</name>
+  <timeout>20</timeout>
+</queue>
+  <sendmessage>
+    <body>Sunny, Beautiful hot day</body>
+    <delaysecond>30</delaysecond>
+  </sendmessage>
+  <receivemessage>
+    <visibilitytimeout>5</visibilitytimeout>
+    <waittimeout>3</waittimeout>
+    <noofmessage>8</noofmessage>
+  </receivemessage>
+</testdata>
